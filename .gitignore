@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local user state / credentials generated at runtime
+users.csv
+
+# Virtual environments & IDEs
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# Streamlit cache
+.streamlit/
